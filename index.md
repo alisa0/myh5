@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/alisa0/myh5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+w ^我终于有自己的网页啦！
+您可以使用[GitHub上的编辑（https://github.com/alisa0/myh5/edit/master/index.md）在Markdown文件中维护和预览您网站的内容。的网页吧
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
